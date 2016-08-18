@@ -27,4 +27,4 @@ __Author website:__ [humhub.org](http://humhub.org)
 Calendar UI is based on FullCalendar (http://arshaw.com/fullcalendar/)
 
 
-Fork by CCRS-WEB
+Fork by CCRS-WEB - Août 2016
